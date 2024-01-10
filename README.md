@@ -1,1 +1,1 @@
-# Mystral_LLM
+# Fine tuning lama 2 and mystral
